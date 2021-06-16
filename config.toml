@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://alfsuse.github.io/fuseml/"
 languageCode = "en-us"
 title = "fuseml"
 theme = "projects-theme"
