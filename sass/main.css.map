@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/github/workspace",
+	"sourceRoot": "/home/runner/work/fuseml/fuseml",
 	"sources": [
 		"assets/sass/main.scss",
 		"themes/projects-theme/assets/sass/main.scss"
